@@ -50,3 +50,6 @@ Select a Sustainable Development Goal (SDG) that resonates with you and develop 
 - Integration documentation
 - Pitch deck presentation (Provide the link e.g Canva or Gamma in your documentation)
 
+## Links
+- [Data Analysis](https://docs.google.com/spreadsheets/d/1VjirHQMHcr2ohnWelKorOmDDRUl3nKBXBSeUD7yerR4/edit?usp=sharing)
+- [Pitch Deck](https://gamma.app/docs/Optimizing-Energy-Consumption-A-Data-Driven-Approach-to-SDG-7-3rcg4xkowlrvonx)
